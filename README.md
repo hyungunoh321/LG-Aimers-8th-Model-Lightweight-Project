@@ -1,4 +1,3 @@
-# LG-Aimers-8th-Model-Lightweight-Project
 # LG Aimers 해커톤: EXAONE 1.2B 모델 경량화 프로젝트
 
 LG EXAONE 4.0 1.2B 모델을 GPTQ 기법을 사용하여 4비트로 경량화하고 최적화한 프로젝트입니다.
